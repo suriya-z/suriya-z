@@ -21,10 +21,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=suriya-z&theme=aurora&style=terminal&mode=light&nw=HAPyrw7fkAGZads1" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=suriya-z&theme=aurora&style=terminal&mode=dark&nw=HAPyrw7fkAGZads1" width="100%" alt="suriya-z heatmap" />
-</picture>
+<!-- Live Animated Activity Graph (Zero Setup — Works Automatically) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya-z&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="suriya-z animated contribution activity" />
 
 </div>
 
