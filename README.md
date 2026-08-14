@@ -15,15 +15,11 @@
 </tr>
 </table>
 
-<p><b>Making the web wierd again!</b></p>
-
-<p><a href="https://github.com/suriya-z">GitHub</a></p>
-
 </div>
 
-<div align="center">
+<br />
 
-<h3><code>suriya-z@github ~ $ ./contributions.sh</code></h3>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=suriya-z&theme=aurora&style=terminal&mode=light&nw=HAPyrw7fkAGZads1" />
