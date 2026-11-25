@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="SURIYA. Making the web weird again. Bots, retro UI, AI tools. Est. 2021." />
+<img src="assets/hero.svg" width="100%" alt="I'm not a ROBOT. AI engineer: I just build them. Making the web weird again." />
 <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, Supabase, Docker, Telegram bots, Vite, Tailwind" />
 <img src="assets/works.svg" width="100%" alt="Selected works" />
 
