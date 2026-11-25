@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="AI engineer. I just build the robots. An endless spiral tunnel of type with a machine eye at the centre." />
+<img src="assets/hero.svg" width="100%" alt="ASCII art animation: a 3D AI rotating in text characters, orbited by red spheres. AI engineer. I just build the robots." />
 <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, Supabase, Docker, Telegram bots, Vite, Tailwind" />
 <img src="assets/works.svg" width="100%" alt="Selected works" />
 
