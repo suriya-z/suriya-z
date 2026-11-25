@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="assets/chart.svg" width="100%" alt="Contribution chart that comes alive: an agent cursor paints a smiley, writes SURIYA, a second cursor undoes it, then a snake eats every square" />
 <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, React, Next.js, Supabase, Docker, Telegram bots, Vite, Tailwind" />
 <img src="assets/works.svg" width="100%" alt="Selected works" />
 
