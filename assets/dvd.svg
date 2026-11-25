@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" font-family="'Courier New', ui-monospace, Menlo, Consolas, monospace">
+<rect width="1000" height="200" rx="14" fill="#07070c" stroke="#1d1d2a"/>
+<text x="20" y="28" fill="#555" font-size="13">// idle screen. waiting for it to hit the corner...</text>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;750 0;0 0" dur="7.3s" repeatCount="indefinite"/>
+ <g><animateTransform attributeName="transform" type="translate" values="0 0;0 130;0 0" dur="2.6s" repeatCount="indefinite"/>
+  <g color="#ff2bd6" fill="currentColor"><animate attributeName="color" values="#ff2bd6;#00f0ff;#c6ff00;#ffcc00;#a855f7;#ff5f57" dur="7.800000000000001s" calcMode="discrete" repeatCount="indefinite"/>
+   <rect x="4" y="4" width="242" height="62" rx="32" fill="none" stroke="currentColor"/>
+   <ellipse cx="125.0" cy="35.0" rx="117.0" ry="27.0"/>
+   <text x="125.0" y="44.0" text-anchor="middle" font-size="26" font-weight="bold" fill="#07070c" letter-spacing="3">SURIYA.EXE</text>
+  </g>
+ </g>
+</g>
+</svg>
